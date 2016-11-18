@@ -1,4 +1,4 @@
-# Police Misconduct Data Visualization
+# Chicago Police Misconduct FOIA Data Cleanup
 
 Data can be accessed through links [here](http://thememoryhole2.org/blog/cpd-complaints)
 
